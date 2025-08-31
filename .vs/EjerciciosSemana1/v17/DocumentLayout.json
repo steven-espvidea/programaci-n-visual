@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual i\\ejerciciossemana1\\ejerciciossemana1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|solutionrelative:ejerciciossemana1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\ejerciciossemana1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|solutionrelative:ejerciciossemana1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual i\\ejerciciossemana1\\ejerciciossemana1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|solutionrelative:ejerciciossemana1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual i\\ejerciciossemana1\\ejerciciossemana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9F737A-EFCC-4F4F-9D66-65045EEE1465}|EjerciciosSemana1\\EjerciciosSemana1.csproj|solutionrelative:ejerciciossemana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosSemana1\\Program.cs",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Program.cs",
+              "RelativeToolTip": "EjerciciosSemana1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:56:34.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EjerciciosSemana1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Form1.Designer.cs",
+              "RelativeToolTip": "EjerciciosSemana1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T04:54:58.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Form1.cs",
+              "RelativeDocumentMoniker": "EjerciciosSemana1\\Form1.cs",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Form1.cs",
+              "RelativeToolTip": "EjerciciosSemana1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:27:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Form1.cs",
+              "RelativeDocumentMoniker": "EjerciciosSemana1\\Form1.cs",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\EjerciciosSemana1\\EjerciciosSemana1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjerciciosSemana1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:25:07.318Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
