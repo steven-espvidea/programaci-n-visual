@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\CALCULADORA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28948D5-6D68-4C28-A54D-29591F56C91F}|Calculadora\\Calculadora.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual i\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28948D5-6D68-4C28-A54D-29591F56C91F}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28948D5-6D68-4C28-A54D-29591F56C91F}|Calculadora\\Calculadora.csproj|C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\CALCULADORA\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F28948D5-6D68-4C28-A54D-29591F56C91F}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\CALCULADORA\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\CALCULADORA\\Calculadora\\Form1.cs",
+              "RelativeToolTip": "Calculadora\\Form1.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAA0wCUBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:10:54.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\CALCULADORA\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\CALCULADORA\\Calculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:26:17.27Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
